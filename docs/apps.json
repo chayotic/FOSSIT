@@ -1,0 +1,226 @@
+[
+  {
+    "name": "LibreSudoku",
+    "description": "Sudoku app for android with Material3 design",
+    "author": "kaajjo",
+    "icon": "https://github.com/kaajjo/LibreSudoku/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true",
+    "link": "https://github.com/kaajjo/LibreSudoku",
+    "category": "Games"
+  },
+  {
+    "name": "Seal",
+    "description": "Video/Audio Downloader for Android, designed with Material You",
+    "author": "JunkFood02",
+    "icon": "https://github.com/JunkFood02/Seal/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true",
+    "link": "https://github.com/JunkFood02/Seal",
+    "category": ""
+  },
+  {
+    "name": "Quik",
+    "description": "The most beautiful SMS messenger for Android - Revived",
+    "author": "octoshrimpy",
+    "icon": "https://github.com/octoshrimpy/quik/blob/master/metadata/en-US/images/icon.png?raw=true",
+    "link": "https://github.com/octoshrimpy/quik",
+    "category": ""
+  },
+  {
+    "name": "SimpMusic",
+    "description": "A simple music app using YouTube Music for backend",
+    "author": "maxrave-dev",
+    "icon": "https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/app/src/main/ic_launcher-playstore.png?raw=true",
+    "link": "https://github.com/maxrave-dev/SimpMusic",
+    "category": "music"
+  },
+  {
+    "name": "Harmony Music",
+    "description": "Cross‑platform YouTube Music client",
+    "author": "anandnet",
+    "icon": "https://github.com/anandnet/Harmony-Music/blob/main/assets/icons/icon.png?raw=true",
+    "link": "https://github.com/anandnet/Harmony-Music",
+    "category": "music"
+  },
+  {
+    "name": "Gramophone",
+    "description": "A sane music player built with media3 and material design library",
+    "author": "FoedusProgramme",
+    "icon": "https://github.com/FoedusProgramme/Gramophone/blob/beta/app/src/main/ic_launcher-playstore.png?raw=true",
+    "link": "https://github.com/FoedusProgramme/Gramophone",
+    "category": "music"
+  },
+  {
+    "name": "OuterTune",
+    "description": "InnerTune fork with additional features",
+    "author": "OuterTune",
+    "icon": "https://github.com/OuterTune/OuterTune/blob/dev/app/src/main/ic_launcher-playstore.png?raw=true",
+    "link": "https://github.com/OuterTune/OuterTune",
+    "category": "music"
+  },
+  {
+    "name": "LinkSheet",
+    "description": "Link handling for modern Android devices",
+    "author": "LinkSheet",
+    "icon": "https://github.com/LinkSheet/LinkSheet/blob/master/app/src/main/res/play_store_512.png?raw=true",
+    "link": "https://github.com/LinkSheet/LinkSheet",
+    "category": ""
+  },
+  {
+    "name": "Musify",
+    "description": "Unlock the full potential of music: Stream effortlessly with one app!",
+    "author": "gokadzev",
+    "icon": "https://github.com/gokadzev/Musify/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true",
+    "link": "https://github.com/gokadzev/Musify",
+    "category": "music"
+  },
+  {
+    "name": "cloudstream",
+    "description": "Android app for streaming and downloading media",
+    "author": "recloudstream",
+    "icon": "https://github.com/recloudstream/cloudstream/blob/master/app/src/main/ic_launcher-playstore.png?raw=true",
+    "link": "https://github.com/recloudstream/cloudstream",
+    "category": ""
+  },
+  {
+    "name": "cromite",
+    "description": "Cromite a Bromite fork with ad blocking and privacy enhancements.",
+    "author": "uazo",
+    "icon": "https://camo.githubusercontent.com/6b4ee03be91712db2d81b603a1bb83553e97b66fa49443bf27b641089ea51696/68747470733a2f2f7777772e63726f6d6974652e6f72672f6170705f69636f6e2e706e67?raw=true",
+    "link": "https://github.com/uazo/cromite",
+    "category": ""
+  },
+  {
+    "name": "exteraGram",
+    "description": "Telegram client based on Android sources with new features",
+    "author": "exteraSquad",
+    "icon": "https://camo.githubusercontent.com/804ddd4ca53b08209aa90f1ea826be4d3632e64fd3976070b3fd1c4bb4c28e0e/68747470733a2f2f692e696d6775722e636f6d2f35456d786576502e706e67?raw=true",
+    "link": "https://github.com/exteraSquad/exteraGram",
+    "category": ""
+  },
+  {
+    "name": "Kreate",
+    "description": "RiMusic fork with additional features and improvements",
+    "author": "knighthat",
+    "icon": "https://github.com/knighthat/Kreate/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true",
+    "link": "https://github.com/knighthat/Kreate",
+    "category": "music"
+  },
+  {
+    "name": "RetroMusicPlayer",
+    "description": "Best Material You Design music player for Android",
+    "author": "RetroMusicPlayer",
+    "icon": "https://github.com/RetroMusicPlayer/RetroMusicPlayer/blob/dev/fastlane/metadata/android/en-US/images/icon.png?raw=true",
+    "link": "https://github.com/RetroMusicPlayer/RetroMusicPlayer",
+    "category": "music"
+  },
+  {
+    "name": "Wall You",
+    "description": "Privacy focused wallpaper app built with MD3",
+    "author": "you-apps",
+    "icon": "https://github.com/you-apps/WallYou/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true",
+    "link": "https://github.com/you-apps/WallYou",
+    "category": ""
+  },
+  {
+    "name": "Revanced Manager",
+    "description": "Application to use ReVanced on Android",
+    "author": "ReVanced",
+    "icon": "https://github.com/ReVanced/revanced-manager/blob/main/assets/revanced-logo/revanced-logo.svg?raw=true",
+    "link": "https://github.com/ReVanced/revanced-manager",
+    "category": ""
+  },
+  {
+    "name": "Obtainium",
+    "description": "Get Android app updates straight from the source.",
+    "author": "ImranR98",
+    "icon": "https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/icon_small.png?raw=true",
+    "link": "https://github.com/ImranR98/Obtainium",
+    "category": ""
+  },
+  {
+    "name": "Metrolist",
+    "description": "YouTube Music client for Android",
+    "author": "mostafaalagamy",
+    "icon": "https://github.com/mostafaalagamy/Metrolist/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true",
+    "link": "https://github.com/mostafaalagamy/Metrolist",
+    "category": "music"
+  },
+  {
+    "name": "Termux",
+    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+    "author": "Termux",
+    "icon": "https://github.com/termux/termux-app/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true",
+    "link": "https://github.com/termux/termux-app",
+    "category": ""
+  },
+  {
+    "name": "Update Me",
+    "description": "Access a wide range of modded apps tailored for Android devices with ease.",
+    "author": "anfreire",
+    "icon": "https://github.com/anfreire/updateMe-Mobile/blob/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true",
+    "link": "https://github.com/anfreire/updateMe-Mobile/tree/master",
+    "category": ""
+  },
+  {
+    "name": "Ente",
+    "description": "End-to-end encrypted cloud for photos, videos and 2FA secrets.",
+    "author": "ente-io",
+    "icon": "https://avatars.githubusercontent.com/u/64603161?s=64&v=4?raw=true",
+    "link": "https://github.com/ente-io/ente",
+    "category": ""
+  },
+  {
+    "name": "Droid-ify",
+    "description": "F-Droid client with Material UI.",
+    "author": "Droid-ify",
+    "icon": "https://github.com/Droid-ify/client/blob/main/app/src/main/ic_launcher-playstore.png?raw=true",
+    "link": "https://github.com/Droid-ify/client",
+    "category": ""
+  },
+  {
+    "name": "F-Droid",
+    "description": "F-Droid is an Android client application..",
+    "author": "f-droid",
+    "icon": "https://github.com/f-droid/fdroidclient/blob/master/logo-icon.svg?raw=true",
+    "link": "https://github.com/f-droid/fdroidclient",
+    "category": ""
+  },
+  {
+    "name": "Snaptick",
+    "description": "Snaptick is an MVVM Jetpack Compose app to help you organize your daily plans",
+    "author": "vishal2376",
+    "icon": "https://github.com/vishal2376/snaptick/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true",
+    "link": "https://github.com/vishal2376/snaptick",
+    "category": ""
+  },
+  {
+    "name": "Openlib",
+    "description": "An Open source app to download and read books from shadow library (Anna’s Archive)",
+    "author": "dstark5",
+    "icon": "https://github.com/dstark5/Openlib/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true",
+    "link": "https://github.com/dstark5/Openlib",
+    "category": ""
+  },
+  {
+    "name": "RiGallery",
+    "description": "An Advanced Android Media Gallery",
+    "author": "fast4x",
+    "icon": "https://github.com/fast4x/RiGallery/blob/main/docs/assets/logo/rigallery_logo_transparent.webp?raw=true",
+    "link": "https://github.com/fast4x/RiGallery",
+    "category": ""
+  },
+  {
+    "name": "Acode",    
+    "description": "Acode - powerful text/code editor for android",
+    "author": "Acode-Foundation",
+    "icon": "https://github.com/Acode-Foundation/Acode/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true",
+    "link": "https://github.com/Acode-Foundation/Acode",
+    "category": ""
+  },
+  {
+    "name": "N-Zik",
+    "description": "RiMusic fork with additional features and improvements",
+    "author": "NEVARLeVrai",
+    "icon": "https://github.com/NEVARLeVrai/N-Zik/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true",
+    "link": "https://github.com/NEVARLeVrai/N-Zik",
+    "category": "music"
+  }
+]
