@@ -64,6 +64,7 @@ document.addEventListener('DOMContentLoaded', () => {
     apps.forEach((app, index) => {
       const card = document.createElement('div');
       card.className = 'card';
+      card.style.setProperty('--index', index);
       card.style.animationDelay = `${index * 0.1}s`;
       
       card.innerHTML = `
