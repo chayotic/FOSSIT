@@ -227,7 +227,7 @@
     "name": "Aurora Store",    
     "description": "Aurora Store is an open-source app that lets you download apps directly from Google Play without using the Play Store.",
     "author": "whyorean",
-    "icon": "https://github.com/whyorean/AuroraStore/blob/master/fastlane/metadata/android/en-US/images/icon.png",
+    "icon": "https://github.com/whyorean/AuroraStore/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true",
     "link": "https://github.com/whyorean/AuroraStore",
     "category": ""
   },
@@ -235,7 +235,7 @@
     "name": "Breezy Weather",    
     "description": "A Material Design Weather Application",
     "author": "breezy-weather",
-    "icon": "https://github.com/breezy-weather/breezy-weather/blob/main/fastlane/metadata/android/en-US/images/icon.png",
+    "icon": "https://github.com/breezy-weather/breezy-weather/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true",
     "link": "https://github.com/breezy-weather/breezy-weather",
     "category": ""
   },
@@ -243,7 +243,7 @@
     "name": "Tracker Control",    
     "description": "monitor and control trackers and ads.",
     "author": "TrackerControl",
-    "icon": "https://github.com/TrackerControl/tracker-control-android/blob/master/fastlane/metadata/android/en-US/images/icon.png",
+    "icon": "https://github.com/TrackerControl/tracker-control-android/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true",
     "link": "https://github.com/TrackerControl/tracker-control-android",
     "category": ""
   },
@@ -251,7 +251,7 @@
     "name": "Iconify",    
     "description": "Iconify customizes icons, colors, and UI on Android 12+ for a personalized look.",
     "author": "Mahmud0808",
-    "icon": "https://github.com/Mahmud0808/Iconify/blob/beta/fastlane/metadata/android/en-US/images/icon.png",
+    "icon": "https://github.com/Mahmud0808/Iconify/blob/beta/fastlane/metadata/android/en-US/images/icon.png?raw=true",
     "link": "https://github.com/Mahmud0808/Iconify",
     "category": ""
   },
@@ -259,7 +259,7 @@
     "name": "WeatherMaster",    
     "description": "A Weather app for android",
     "author": "PranshulGG",
-    "icon": "https://github.com/PranshulGG/WeatherMaster/blob/master/fastlane/metadata/android/en-US/images/icon.png",
+    "icon": "https://github.com/PranshulGG/WeatherMaster/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true",
     "link": "https://github.com/PranshulGG/WeatherMaster",
     "category": ""
   },
@@ -267,7 +267,7 @@
     "name": "Auxio",    
     "description": "A simple, rational music player for android",
     "author": "OxygenCobalt",
-    "icon": "https://github.com/OxygenCobalt/Auxio/blob/dev/fastlane/metadata/android/en-US/images/icon.png",
+    "icon": "https://github.com/OxygenCobalt/Auxio/blob/dev/fastlane/metadata/android/en-US/images/icon.png?raw=true",
     "link": "https://github.com/OxygenCobalt/Auxio",
     "category": ""
   },
@@ -275,7 +275,7 @@
     "name": "Rush",    
     "description": "App to search, save and share lyrics like spotify!",
     "author": "shub39",
-    "icon": "https://github.com/shub39/Rush/blob/master/fastlane/metadata/android/en-US/images/icon.png",
+    "icon": "https://github.com/shub39/Rush/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true",
     "link": "https://github.com/shub39/Rush",
     "category": ""
   },
@@ -283,7 +283,7 @@
     "name": "Birday",    
     "description": "A beautiful Kotlin app to remember birthdays and events.",
     "author": "m-i-n-a-r",
-    "icon": "https://github.com/m-i-n-a-r/birday/blob/master/fastlane/metadata/android/en-US/images/icon.png",
+    "icon": "https://github.com/m-i-n-a-r/birday/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true",
     "link": "https://github.com/m-i-n-a-r/birday",
     "category": ""
   },
@@ -291,7 +291,7 @@
     "name": "Signal",    
     "description": "A private messenger for Android.",
     "author": "signalapp",
-    "icon": "https://github.com/signalapp/Signal-Android/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+    "icon": "https://github.com/signalapp/Signal-Android/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true",
     "link": "https://github.com/signalapp/Signal-Android",
     "category": ""
   },
@@ -299,7 +299,7 @@
     "name": "Music Recognizer",    
     "description": "An Android application for music recognition.",
     "author": "aleksey-saenko",
-    "icon": "https://github.com/aleksey-saenko/MusicRecognizer/blob/master/fastlane/metadata/android/en-US/images/icon.png",
+    "icon": "https://github.com/aleksey-saenko/MusicRecognizer/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true",
     "link": "https://github.com/aleksey-saenko/MusicRecognizer",
     "category": ""
   },
@@ -307,7 +307,7 @@
     "name": "FlorisBoard",    
     "description": "An open-source keyboard for Android which respects your privacy.",
     "author": "florisboard",
-    "icon": "https://github.com/florisboard/florisboard/blob/main/fastlane/metadata/android/en-US/images/icon.png",
+    "icon": "https://github.com/florisboard/florisboard/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true",
     "link": "https://github.com/florisboard/florisboard",
     "category": ""
   },
@@ -315,7 +315,7 @@
     "name": "WallStreet",    
     "description": "A sleek wallpaper app built with Jetpack Compose & Kotlin Multiplatform, supporting Android, Mac, Windows & Linux.",
     "author": "StarkDroid",
-    "icon": "https://github.com/StarkDroid/WallStreet/blob/main/composeApp/src/androidMain/res/ic_launcher-playstore.png",
+    "icon": "https://github.com/StarkDroid/WallStreet/blob/main/composeApp/src/androidMain/res/ic_launcher-playstore.png?raw=true",
     "link": "https://github.com/StarkDroid/WallStreet",
     "category": ""
   }
